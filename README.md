@@ -117,7 +117,7 @@ Thank you. Visit again!
 
 **Rohit Reddy Madhireddu**
 
-GitHub: [https://github.com/Sathvik694](https://github.com/rohitreddymadhireddy-arch
+GitHub: [https://github.com/rohitreddymadhireddy-arch]
 
 ---
 
