@@ -115,12 +115,14 @@ Thank you. Visit again!
 
 ## 👨‍💻 Author
 
-**Sathvik**
+**Rohit Reddy Madhireddu**
 
-GitHub: https://github.com/Sathvik694
+GitHub: [https://github.com/Sathvik694](https://github.com/rohitreddymadhireddy-arch
 
 ---
 
 ## 📄 License
 
 This project is open-source and available under the MIT License.
+
+\
